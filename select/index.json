@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Louis Tomlinson - Always You (Official Lyric Video)",
+  "base_artist": "Louis Tomlinson",
+  "createdAt": "2026-03-28T09:19:24.934245Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Louis Tomlinson - Back to You (Official Video) ft. Bebe Rexha, Digital Farm Animals",
+      "artist": "Louis Tomlinson",
+      "has_synced": true,
+      "path": "select/01_Louis_Tomlinson_-_Back_to_You_(Official_Video)_ft._Bebe_Rexha,_Digital_Farm_Anim_Louis_Tomlinson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Louis Tomlinson - Don't Let It Break Your Heart (Official Video)",
+      "artist": "Louis Tomlinson",
+      "has_synced": true,
+      "path": "select/02_Louis_Tomlinson_-_Don't_Let_It_Break_Your_Heart_(Official_Video)_Louis_Tomlinson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Louis Tomlinson - Don't Let It Break Your Heart (Official Lyric Video)",
+      "artist": "Louis Tomlinson",
+      "has_synced": true,
+      "path": "select/03_Louis_Tomlinson_-_Don't_Let_It_Break_Your_Heart_(Official_Lyric_Video)_Louis_Tomlinson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Louis Tomlinson - Walls (Official Video)",
+      "artist": "Louis Tomlinson",
+      "has_synced": true,
+      "path": "select/04_Louis_Tomlinson_-_Walls_(Official_Video)_Louis_Tomlinson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Louis Tomlinson - Always You (Official Lyric Video)",
+      "artist": "Louis Tomlinson",
+      "has_synced": true,
+      "path": "select/05_Louis_Tomlinson_-_Always_You_(Official_Lyric_Video)_Louis_Tomlinson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Louis Tomlinson - Written All Over Your Face (Official Audio)",
+      "artist": "Louis Tomlinson",
+      "has_synced": true,
+      "path": "select/06_Louis_Tomlinson_-_Written_All_Over_Your_Face_(Official_Audio)_Louis_Tomlinson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Louis Tomlinson - Too Young (Official Lyric Video)",
+      "artist": "Louis Tomlinson",
+      "has_synced": true,
+      "path": "select/07_Louis_Tomlinson_-_Too_Young_(Official_Lyric_Video)_Louis_Tomlinson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Louis Tomlinson - Always You (Official Lyric Video)",
+      "artist": "Louis Tomlinson",
+      "has_synced": true,
+      "path": "select/08_Louis_Tomlinson_-_Always_You_(Official_Lyric_Video)_Louis_Tomlinson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Louis Tomlinson - Defenceless (Official Lyric Video)",
+      "artist": "Louis Tomlinson",
+      "has_synced": true,
+      "path": "select/09_Louis_Tomlinson_-_Defenceless_(Official_Lyric_Video)_Louis_Tomlinson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Louis Tomlinson - Always You (Official Lyric Video)",
+      "artist": "Louis Tomlinson",
+      "has_synced": true,
+      "path": "select/10_Louis_Tomlinson_-_Always_You_(Official_Lyric_Video)_Louis_Tomlinson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Louis Tomlinson - Back to You ft. Bebe Rexha (Lyrics)",
+      "artist": "YF Music",
+      "has_synced": true,
+      "path": "select/11_Louis_Tomlinson_-_Back_to_You_ft._Bebe_Rexha_(Lyrics)_YF_Music.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Back to You (Digital Farm Animals and Louis Tomlinson Remix) (feat. Bebe Rexha & Digital Farm Animals)",
+      "artist": "Louis Tomlinson",
+      "has_synced": true,
+      "path": "select/12_Back_to_You_(Digital_Farm_Animals_and_Louis_Tomlinson_Remix)_(feat._Bebe_Rexha_&_Louis_Tomlinson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Back to You (Digital Farm Animals and Louis Tomlinson Remix)",
+      "artist": "Louis Tomlinson",
+      "has_synced": true,
+      "path": "select/13_Back_to_You_(Digital_Farm_Animals_and_Louis_Tomlinson_Remix)_Louis_Tomlinson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Louis Tomlinson - Holding On To Heartache (Official Audio)",
+      "artist": "Louis Tomlinson",
+      "has_synced": true,
+      "path": "select/14_Louis_Tomlinson_-_Holding_On_To_Heartache_(Official_Audio)_Louis_Tomlinson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Louis Tomlinson - Don't Let It Break Your Heart (Lyrics)",
+      "artist": "Justysss",
+      "has_synced": true,
+      "path": "select/15_Louis_Tomlinson_-_Don't_Let_It_Break_Your_Heart_(Lyrics)_Justysss.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Back to You (feat. Bebe Rexha & Digital Farm Animals) (Digital Farm Animals and Louis Tomlinson Remix)",
+      "artist": "Louis Tomlinson",
+      "has_synced": true,
+      "path": "select/16_Back_to_You_(feat._Bebe_Rexha_&_Digital_Farm_Animals)_(Digital_Farm_Animals_and__Louis_Tomlinson.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Just Hold On (With Louis Tomlinson)",
+      "artist": "Steve Aoki",
+      "has_synced": true,
+      "path": "select/17_Just_Hold_On_(With_Louis_Tomlinson)_Steve_Aoki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Always You",
+      "artist": "Louis Tomlinson",
+      "has_synced": false,
+      "path": "select/pl_01_Always_You_Louis_Tomlinson.txt"
+    }
+  ]
+}
